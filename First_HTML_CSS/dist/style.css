@@ -1,0 +1,26 @@
+#main {
+
+background: grey;
+}
+#title {
+  color: white;
+  text-align: center;
+  
+}
+img-div{ 
+ 
+}
+#image {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  max-width:100%;
+}
+#img-caption {
+  text-align: center;
+  font-size: 30px;
+}
+#tribute-info {
+  text-align: center;
+}
